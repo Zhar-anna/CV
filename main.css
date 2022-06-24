@@ -1,0 +1,50 @@
+.content h2 {
+    color: #475876;
+    
+    }
+    .content h1 {
+    color: #475876;
+    
+    }
+    .content {
+    background-color: #E5E8EE;
+    padding: 10px;
+    }
+    
+    h1,
+    h2,
+    h3,
+    h4 {
+    text-align: center;
+    }
+    
+    
+    .display-flex {
+    margin: 15px;
+    padding: 10px;
+    display: flex;
+    
+    justify-content: center;
+    align-content: center;
+    
+    }
+    
+    header img {
+    width: 300px;
+    height: auto;
+    position: relative;
+    left: 115px;
+    }
+    
+    .column-left {
+    width: 600px;
+    margin: 15px;
+    
+    }
+    
+    .column-right {
+    margin: 15px;
+    width: 800px;
+    
+    }
+    
